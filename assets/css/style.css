@@ -15,3 +15,8 @@ header {
     text-align: center;
     font-family: 'Sixtyfour Convergence', sans-serif;
 }
+main {
+    padding: 40px 20px;
+    min-height: 200px;
+    text-align: center;
+}
